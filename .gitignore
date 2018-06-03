@@ -1,0 +1,8 @@
+.DS_STORE
+**/data
+**/log
+.idea
+dist
+.DS_Store
+/build
+**/target
